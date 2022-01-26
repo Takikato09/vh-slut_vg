@@ -3,3 +3,16 @@
    display:inline;
    padding: 4px 24px;
 }
+
+.navigation {
+   display: flex;
+   justify-content:end;
+   flex-direction: row;
+   text-decoration: none;
+   background-color: #0fbcf9;
+}
+
+.navigation a {
+   /* border: black 1px solid; */
+   margin: 10px 7px;
+}

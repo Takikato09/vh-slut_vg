@@ -22,3 +22,6 @@ Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/M
 
 ## Författare
 [@johan-at-grit](https://github.com/johan-at-grit/)
+
+## Medarbetare
+[@Takikato09] (https://github.com/Takikato09)
