@@ -8,6 +8,7 @@ Gritty Café är en exempelsite för att lära sig versionshantering med Git och
 **Content** finns i rotmappen\
 **Bilder** finns i folder *img*\
 **Styling** finns i folder *style*
+**Javascript** ingen javascript i den här repository
 
 ## credits
 > Så nu sitter jag här i min nya bil\
@@ -17,6 +18,9 @@ Gritty Café är en exempelsite för att lära sig versionshantering med Git och
 av Lars Demian, stjärnan och karriären\
 (OBS! Känsliga varnas för ekivok text.)
 
+
+## Det är Johan som är kreatör, och det är Lian som har uppdaterat filerna.
+### Vi hoppas att ni får njuta av den här websidan.
 ## Licens
 Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/MIT)
 
