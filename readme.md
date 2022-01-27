@@ -13,7 +13,7 @@ Gritty Café är en exempelsite för att lära sig versionshantering med Git och
 ## Översikt
 **Content** finns i rotmappen\
 **Bilder** finns i folder *img*\
-**Styling** finns i folder *style*
+**Styling** finns i folder *style*\
 **Javascript** ingen javascript i den här repository
 
 ## credits
