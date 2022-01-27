@@ -6,6 +6,7 @@ Gritty Café är en exempelsite för att lära sig versionshantering med Git och
 ## Det är Johan som är kreatör, och det är Lian som har uppdaterat filerna.
 
 **_Johan_** _är våra lärare i Versionshantering. Han lärde oss hur man använder gitHub och git desktop på ett mer komplext och organiserat sätt._
+
 **_Lian_** _är en blivande junior frontend webbutvecklare som också arbetade i detta projekt._
 ### Vi hoppas att ni får njuta av den här websidan.
 
@@ -30,4 +31,4 @@ Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/M
 [@johan-at-grit](https://github.com/johan-at-grit/)
 
 ## Medarbetare
-[@Takikato09] (https://github.com/Takikato09)
+[@Takikato09](https://github.com/Takikato09)
