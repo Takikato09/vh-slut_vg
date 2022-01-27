@@ -143,23 +143,27 @@ form {
    display: flex;
    align-items: center;
    flex-direction: column;
+   background-color: #0fbcf9;
 }
 
 .footer p {
-   font-size: 20px
+   font-size: 0.8em;
+   font-style: italic;
+   display:inline;
+   padding: 4px 24px;
 }
 
 .history-footer {
-   margin-top: 10rem;
+   margin-top: 16.5rem;
 }
 .menu-footer {
-   margin-top: 8.4rem;
+   margin-top: 8.5rem;
 }
 
 .hitta-footer {
-   margin-top: 6rem;
+   margin-top: 8rem;
 }
 
 .about-footer {
-   margin-top: 1rem;
+   margin-top: 3rem;
 }
