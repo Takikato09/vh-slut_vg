@@ -3,6 +3,11 @@
 ## Om
 Gritty Café är en exempelsite för att lära sig versionshantering med Git och Github som host.
 
+## Det är Johan som är kreatör, och det är Lian som har uppdaterat filerna.
+
+**_Johan_** _är våra lärare i Versionshantering. Han lärde oss hur man använder gitHub och git desktop på ett mer komplext och organiserat sätt._
+**_Lian_** _är en blivande junior frontend webbutvecklare som också arbetade i detta projekt._
+### Vi hoppas att ni får njuta av den här websidan.
 
 ## Översikt
 **Content** finns i rotmappen\
@@ -18,9 +23,6 @@ Gritty Café är en exempelsite för att lära sig versionshantering med Git och
 av Lars Demian, stjärnan och karriären\
 (OBS! Känsliga varnas för ekivok text.)
 
-
-## Det är Johan som är kreatör, och det är Lian som har uppdaterat filerna.
-### Vi hoppas att ni får njuta av den här websidan.
 ## Licens
 Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/MIT)
 
